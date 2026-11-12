@@ -1,0 +1,16 @@
+FONTES NECESSÁRIAS PARA A PÁGINA
+
+Esta página referencia duas fontes locais. Copie para esta pasta os dois ficheiros TTF que enviou,
+mantendo exactamente estes nomes:
+
+DIN Next Rounded LT W04 Medium.ttf
+Duolingo Feather Bold.ttf
+
+Estrutura esperada:
+Preparador-landing/
+  index.html
+  fonts/
+    DIN Next Rounded LT W04 Medium.ttf
+    Duolingo Feather Bold.ttf
+
+A página usa DIN Next Rounded no texto corrido e Feather Bold nos títulos, marca e botões.
